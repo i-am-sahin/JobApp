@@ -12,7 +12,7 @@ import java.util.List;
 @AllArgsConstructor
 @Component
 public class JobPost {
-    private int JobPost;
+    private int postId;
     private String postProfile;
     private String postDesc;
     private int reqExperience;
